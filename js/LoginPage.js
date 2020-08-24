@@ -32,7 +32,7 @@ function ResetLogin() {
 
 function logout()
 {
-    window.location="Page.html";
+    window.location="index.html";
 }
 function gobackto()
 {
